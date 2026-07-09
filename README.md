@@ -1,7 +1,10 @@
-│ **Role:**         │ Business Analyst / AI Transformation Consultant             │
-│ **Industry:**     │ Municipal Infrastructure (NDA)                              │
-│ **Project Type:** │ Enterprise Business Analysis & AI Transformation Assessment │
-│ **Status:**       │ Completed Business Assessment                               │
+- **Role:** Business Analyst / AI Transformation Consultant
+  
+- **Industry:** Municipal Infrastructure (NDA)
+  
+- **Project Type:**  Enterprise Business Analysis & AI Transformation Assessment
+  
+- **Status:** Completed Business Assessment
 
 # Enterprise AI Assessment Case
 
